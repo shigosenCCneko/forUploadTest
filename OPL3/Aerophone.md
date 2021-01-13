@@ -17,3 +17,12 @@
 '@   0   3      
 
 [Clarinet](https://user-images.githubusercontent.com/28349102/104184597-081df100-5457-11eb-954f-6377d5caf710.mp4) 
+
+'@ L 0 "Tuba"
+    AR  DR  SL  RR KSL  TL  MT  AM VIB EGT KSR  WS  
+'@   8   6   1   5   2  24   0   0   0   1   0   5 
+'@  11   2   3   7   0   0   1   0   1   1   0   0 
+   CNT  FB
+'@   0   5
+
+[Tube](https://user-images.githubusercontent.com/28349102/104455007-08022a80-55ea-11eb-8b65-7370094f0340.mp4)
