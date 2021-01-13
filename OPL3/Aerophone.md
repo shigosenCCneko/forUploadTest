@@ -18,6 +18,20 @@
 
 [Clarinet](https://user-images.githubusercontent.com/28349102/104184597-081df100-5457-11eb-954f-6377d5caf710.mp4) 
 
+
+
+'@ L 0 "Trumpet"     
+    AR  DR  SL  RR KSL  TL  MT  AM VIB EGT KSR  WS       
+'@   8   1  12   5   0   3   2   0   0   0   1   0      
+'@  10   1  12   5   0  20   1   0   0   1   1   5      
+   CNT  FB     
+'@   1   5      
+
+[Trumpet](https://user-images.githubusercontent.com/28349102/104455973-5c59da00-55eb-11eb-83c8-329a47ffb9af.mp4)
+
+
+
+
 '@ L 0 "Tuba"     
     AR  DR  SL  RR KSL  TL  MT  AM VIB EGT KSR  WS       
 '@   8   6   1   5   2  24   0   0   0   1   0   5      
