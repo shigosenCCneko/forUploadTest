@@ -17,11 +17,11 @@
 
 [BassDrum](https://user-images.githubusercontent.com/28349102/104186267-85e2fc00-5459-11eb-8b00-2e66bf50a1e9.mp4)
 
-'@ L 0 "Cymbal"
-    AR  DR  SL  RR KSL  TL  MT  AM VIB EGT KSR  WS  
-'@  15   3  15   3   0   0   4   0   0   0   0   0 
-'@   9   6   1   5   0   0   0   0   0   0   0   6 
-   CNT  FB
-'@   0   7 
+'@ L 0 "Cymbal"     
+    AR  DR  SL  RR KSL  TL  MT  AM VIB EGT KSR  WS       
+'@  15   3  15   3   0   0   4   0   0   0   0   0      
+'@   9   6   1   5   0   0   0   0   0   0   0   6      
+   CNT  FB     
+'@   0   7      
 
 [Cymbal](https://user-images.githubusercontent.com/28349102/104596077-d6a36080-56b6-11eb-9d67-7845a1406fdd.mp4)
