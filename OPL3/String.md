@@ -17,3 +17,11 @@
 
 [Dist Guitar](https://user-images.githubusercontent.com/28349102/104185522-74e5bb00-5458-11eb-9b26-6436e3991daa.mp4)
 
+'@ L 0 "Sitar"     
+    AR  DR  SL  RR KSL  TL  MT  AM VIB EGT KSR  WS       
+'@   8   6   2   2   0   0   1   0   0   0   0   7      
+'@   8   4   7   4   0   0   0   0   0   1   0   4      
+   CNT  FB     
+'@   0   4      
+
+[Sitar](https://user-images.githubusercontent.com/28349102/104595388-e3738480-56b5-11eb-903e-7650eea0a22d.mp4)
